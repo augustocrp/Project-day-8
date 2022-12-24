@@ -10,3 +10,4 @@ def is_palindrome(word):
             break
         j = j - 1
 
+if
