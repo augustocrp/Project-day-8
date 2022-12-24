@@ -11,3 +11,4 @@ def is_palindrome(word):
         j = j - 1
 
     if result == math.ceil(len(word)/2):
+        return True
