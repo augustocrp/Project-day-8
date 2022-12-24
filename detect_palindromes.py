@@ -10,4 +10,4 @@ def is_palindrome(word):
             break
         j = j - 1
 
-if
+    if result == math.ceil(len(word)/2):
