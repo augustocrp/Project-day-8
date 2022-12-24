@@ -14,3 +14,10 @@ def is_palindrome(word):
         return True
     else:
         return False
+
+words = ["arara", "racecar", "carro", "cama", "level"]
+
+for word in words:
+    print(word)
+    print(is_palindrome(word))
+    print("\n")
